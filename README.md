@@ -123,4 +123,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 #### Acknowledgments
-Special thanks to the cyber-security company for the opportunity to work on this project and for providing the necessary resources and data.
+Special thanks to Underscore cyber-security company for the opportunity to work on this project and for providing the necessary resources and data.
